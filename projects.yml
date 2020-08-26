@@ -1,0 +1,19 @@
+# 定义项目名称，git的地址和分支，项目配置文件路径，项目测试用例路径，项目测试报文数据路径
+
+test_data: C:\Users\zhangyp\Desktop\api_auto_case\
+scr_path: C:\Users\zhangyp\Desktop\api_auto_case\
+report_path: C:\Users\zhangyp\Desktop\api_auto_case\
+
+# 纸电一体，mysql数据库
+zdyt_mysql:
+  project_name: zdyt_mysql
+  git_url:
+  branch:
+  yaml_path: zdyt_mysql/project.yml
+  test_case_path: zdyt_mysql/test_case/test_case.xlsx
+  test_data_path: zdyt_mysql/data_file/
+
+
+
+
+

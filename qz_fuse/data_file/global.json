@@ -1,0 +1,30 @@
+{
+	"interface": {
+		"globalInfo": {
+			"appId": "",
+			"interfaceId": "",
+			"interfaceCode": "GP_SKSBXXCX",
+			"requestCode": "DZFPQZ",
+			"requestTime": "||time_str(%Y-%m-%d %H:%M:%S)||",
+			"responseCode": "DS",
+			"dataExchangeId": ""
+		},
+		"returnStateInfo": {
+			"returnCode": "",
+			"returnMessage": ""
+		},
+		"data": {
+			"dataDescription": {
+				"zipCode": ""
+			},
+			"content": "",
+			"contentKey": ""
+		}
+	}
+}
+
+
+ 
+ 
+ 
+ 
