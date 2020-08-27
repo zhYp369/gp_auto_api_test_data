@@ -9,7 +9,7 @@ project_DB:
   
 # 项目工程ip和端口地址
 engineering_hp:
-    fpt-rhqz: http://172.25.2.106:52157
+    fpt-rhqz: http://172.25.2.106:52158
     
 
 # 其他配置
