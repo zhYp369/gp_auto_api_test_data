@@ -1,0 +1,3 @@
+bodydata>REQUEST_COMMON_FPKJ.YFP_DM:kj_b_01>response.interface.data.content.DATA.FP_DM
+bodydata>REQUEST_COMMON_FPKJ.YFP_HM:kj_b_01>response.interface.data.content.DATA.FP_HM
+

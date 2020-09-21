@@ -1,0 +1,13 @@
+{
+	"req_data": "",
+	"res_data": [
+		{
+			"REQUEST_COMMON_FPKJ.YFP_DM": "interface.data.content.DATA.FP_DM"
+		},
+		{
+			"REQUEST_COMMON_FPKJ.YFP_HM": "interface.data.content.DATA.FP_HM"
+		}
+	],
+	"cookie": "",
+	"tonken": ""
+}

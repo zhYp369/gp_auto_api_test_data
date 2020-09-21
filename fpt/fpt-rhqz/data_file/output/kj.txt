@@ -1,0 +1,12 @@
+bodydata>REQUEST_COMMON_FPKJ.FPQQLSH;
+response>interface.data.content.DATA.FP_DM
+
+;
+response>interface.data.content.DATA.FP_HM
+
+;
+response>interface.data.content.DATA.KPRQ;
+response>interface.data.content.DATA.JYM;
+response>interface.data.content.DATA.PDF_URL;
+response>interface.data.content.DATA.OFD_URL;
+response>interface.data.content.DATA.SP_URL

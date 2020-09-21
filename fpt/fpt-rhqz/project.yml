@@ -19,16 +19,10 @@ other_data:
     
 save_path:
     test_case_path: test_case/test_case.xlsx
-    test_data_path: data_file/
-    
-    
-    
-    
-    
-    
-
-
-
-
-
+    dp: data_file/dp
+    expected: data_file/expected
+    req_data: data_file/req_data/data
+    req_globle: data_file/req_data/globle
+    req_params: data_file/req_data/params
+    output: data_file/output
 
